@@ -15,11 +15,27 @@ Welcome to my GitHub profile! I'm a Senior Business Intelligence Analyst student
 ---
 
 ## 🚀 What I’ve Worked On
-- **WHO Life expectancy data**: Designed interactive Tableau dashboards to analyze life expectancy trends and their correlation with healthcare access.
-- **Insurance Data Analysis**: Used Excel pivot tables and SQL queries to uncover patterns in customer behavior for an insurance company.
-- **IMDB Data Analysis**: Applied Python to analyze movie data and identify key insights.
+### 📦 [IMDB Data Analysis]([(https://github.com/mahmoud1500/Python/blob/6926fed89c2200980916595378b623ffa02025ca/Faisal%20-%20Machine%20Learning%20Midterm.ipynb)](https://github.com/mahmoud1500/Python/blob/4d5121312a44627e0aa447a27ce599c1f5b01bca/IMDB%20Project%20Using%20Machine%20learning))
+Explored IMDB data using Python to identify key revenue streams. This project involved:
+- Data wrangling with Pandas and visualization with Matplotlib.
+- Insights into seasonal  and customer preferences.
 
 ---
+
+### 📊 [WHO Life Expectancy Data Analysis](https://github.com/your-username/healthcare-analysis-dashboard)
+Designed an interactive Tableau dashboard to analyze life expectancy trends and their correlation with healthcare access across countries. The project includes:
+- Data cleaning and transformation using Python.
+- Advanced Tableau visualizations to uncover patterns.
+- Insights to inform policymakers about healthcare disparities.
+
+---
+
+### 📈 [Insurance Data Analysis](https://github.com/your-username/insurance-data-analysis)
+Analyzed customer behavior data for an insurance company using SQL and Excel. Highlights include:
+- Data extraction and manipulation with SQL queries.
+- Pivot tables and charts in Excel for in-depth reporting.
+- Recommendations to improve customer retention and revenue.
+
 
 ## 🌱 Current Goals
 - Secure an internship as a Data Analyst / Business Intelligence to enhance my technical expertise and gain professional experience.
