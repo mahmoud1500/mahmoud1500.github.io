@@ -22,7 +22,7 @@ Explored IMDB data using Python to identify key revenue streams. This project in
 
 ---
 
-### 📊 [WHO Life Expectancy Data Analysis](https://github.com/your-username/healthcare-analysis-dashboard)
+### 📊 [WHO Life Expectancy Data Analysis]https://public.tableau.com/views/LifeExpectancyDashboard-ZimbabweCountry/ZimbabweHIVRankingDashboardbetween2000-2015?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 Designed an interactive Tableau dashboard to analyze life expectancy trends and their correlation with healthcare access across countries. The project includes:
 - Data cleaning and transformation using Python.
 - Advanced Tableau visualizations to uncover patterns.
