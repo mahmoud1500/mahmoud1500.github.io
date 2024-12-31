@@ -22,14 +22,14 @@ Explored IMDB data using Python to identify key revenue streams. This project in
 
 ---
 
-### 📊 [WHO Life Expectancy Data Analysis]https://public.tableau.com/views/LifeExpectancyDashboard-ZimbabweCountry/ZimbabweHIVRankingDashboardbetween2000-2015?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+### 📊 [WHO Life Expectancy Data Analysis](https://public.tableau.com/views/LifeExpectancyDashboard-ZimbabweCountry/ZimbabweHIVRankingDashboardbetween2000-2015?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 Designed an interactive Tableau dashboard to analyze life expectancy trends and their correlation with healthcare access across countries. The project includes:
 - Data cleaning and transformation using Python.
 - Advanced Tableau visualizations to uncover patterns.
 - Insights to inform policymakers about healthcare disparities.
 
 ---
-### Tableau Projects https://public.tableau.com/app/profile/mahmoud.faisal
+### [Tableau Projects](https://public.tableau.com/app/profile/mahmoud.faisal)
 ### 
 
 ## 🌱 Current Goals
