@@ -29,7 +29,8 @@ Designed an interactive Tableau dashboard to analyze life expectancy trends and 
 - Insights to inform policymakers about healthcare disparities.
 
 ---
-
+### Tableau Projects https://public.tableau.com/app/profile/mahmoud.faisal
+### 
 
 ## 🌱 Current Goals
 - Secure an internship as a Data Analyst / Business Intelligence to enhance my technical expertise and gain professional experience.
@@ -40,5 +41,6 @@ Designed an interactive Tableau dashboard to analyze life expectancy trends and 
 ## 📫 Let’s Connect
 - **LinkedIn**: (www.linkedin.com/in/mfaisal87)
 - **Email**: (mahmoudfaisal87@outlook.com)
+- **Youtube**:(https://youtube.com/shorts/ROfb0hp_N_8?feature=share)
 
 Feel free to explore my repositories, provide feedback, and collaborate on projects. Let’s transform data into stories together! 📊✨
