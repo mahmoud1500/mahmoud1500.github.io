@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a Senior Business Intelligence Analyst student
 ---
 
 ## 🚀 What I’ve Worked On
-### 📦 [IMDB Data Analysis](https://github.com/mahmoud1500/Python/blob/4d5121312a44627e0aa447a27ce599c1f5b01bca/IMDB%20Project%20Using%20Machine%20learning)
+### 📦 [IMDB Data Analysis](https://github.com/mahmoud1500/Python/blob/e1abbeea077c36ffb7edbb75fc73bcaa9f6273c0/Faisal%20-%20Machine%20Learning%20Midterm.ipynb)
 Explored IMDB data using Python to identify key revenue streams. This project involved:
 - Data wrangling with Pandas and visualization with Matplotlib.
 - Insights into seasonal  and customer preferences.
