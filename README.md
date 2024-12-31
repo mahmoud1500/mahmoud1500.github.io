@@ -30,12 +30,6 @@ Designed an interactive Tableau dashboard to analyze life expectancy trends and 
 
 ---
 
-### 📈 [Insurance Data Analysis](https://github.com/your-username/insurance-data-analysis)
-Analyzed customer behavior data for an insurance company using SQL and Excel. Highlights include:
-- Data extraction and manipulation with SQL queries.
-- Pivot tables and charts in Excel for in-depth reporting.
-- Recommendations to improve customer retention and revenue.
-
 
 ## 🌱 Current Goals
 - Secure an internship as a Data Analyst / Business Intelligence to enhance my technical expertise and gain professional experience.
